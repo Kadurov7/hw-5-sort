@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//kadurov7.github.io/hw-5-sort/static/css/main.d2975131.css",
-    "main.js": "/https//kadurov7.github.io/hw-5-sort/static/js/main.047389fb.js",
-    "static/js/787.28cb0dcd.chunk.js": "/https//kadurov7.github.io/hw-5-sort/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/https//kadurov7.github.io/hw-5-sort/index.html",
-    "main.d2975131.css.map": "/https//kadurov7.github.io/hw-5-sort/static/css/main.d2975131.css.map",
-    "main.047389fb.js.map": "/https//kadurov7.github.io/hw-5-sort/static/js/main.047389fb.js.map",
-    "787.28cb0dcd.chunk.js.map": "/https//kadurov7.github.io/hw-5-sort/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/hw-5-sort/static/css/main.d2975131.css",
+    "main.js": "/hw-5-sort/static/js/main.5afa9ff2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/hw-5-sort/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/hw-5-sort/index.html",
+    "main.d2975131.css.map": "/hw-5-sort/static/css/main.d2975131.css.map",
+    "main.5afa9ff2.js.map": "/hw-5-sort/static/js/main.5afa9ff2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/hw-5-sort/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2975131.css",
-    "static/js/main.047389fb.js"
+    "static/js/main.5afa9ff2.js"
   ]
 }
